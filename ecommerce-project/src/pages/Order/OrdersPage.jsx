@@ -1,10 +1,10 @@
 import axios from 'axios'
 import dayjs from 'dayjs'
-import { formatMoney } from '../utils/money';
+import { formatMoney } from '../../utils/money';
 import { useEffect, useState, Fragment } from 'react';
 import { Link } from 'react-router'
-import { Header } from '../assets/Header'
-import BuyAgainIcon from '../assets/images/icons/buy-again.png';
+import { Header } from '../../assets/Header'
+import BuyAgainIcon from '../../assets/images/icons/buy-again.png';
 import './OrdersPage.css'
 
 export function OrdersPage({ cart }) {
@@ -91,9 +91,7 @@ export function OrdersPage({ cart }) {
                 </div>
               </div>
             );
-          })};
-
-          
+          })}    
         </div>
       </div>
     </>
