@@ -2,7 +2,7 @@ import { Fragment } from 'react';
 import { OrderHeader } from './OrderHeader';
 import { OrderDetailGrid } from './OrderDetailsGrid';
 
-export function OrdersGrid({ orders }) {
+export function OrdersGrid({ orders, loadCart }) {
  return (
   <div className="orders-grid">
    {orders.map((order) => {
@@ -11,7 +11,7 @@ export function OrdersGrid({ orders }) {
 
       <OrderHeader order={order} />
 
-      <OrderDetailGrid order={order} />
+      <OrderDetailGrid order={order} loadCart={loadCart} />
      </div>
     );
    })}
