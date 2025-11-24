@@ -1,7 +1,8 @@
 import axios from 'axios';
 import dayjs from 'dayjs';
 import { Header } from '../../assets/Header';
-import { Link, useParams, useState, useEffect } from 'react-router';
+import { Link, useParams } from 'react-router';
+import { useState, useEffect } from 'react';
 import './TrackingPage.css'
 
 export function TrackingPage({ cart }) {
