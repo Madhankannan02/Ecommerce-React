@@ -2,7 +2,7 @@
 
 A fully responsive and feature-rich ecommerce web application built using React. This project demonstrates practical application architecture, dynamic data management, routing across multiple pages, automated component testing, and real-time UI updates using async operations. Designed as a primary portfolio project, it showcases strong proficiency in modern frontend development and application scaling practices.
 
-<img width="1839" height="870" alt="Image" src="https://github.com/user-attachments/assets/5d6b5da9-0fd5-49c0-9da0-5e7bc3b0c63e" />
+<img width="1841" height="874" alt="Image" src="https://github.com/user-attachments/assets/4cb97a52-ddef-41e5-9c9f-1f6a9bc70c44" />
 
 ## Overview
 
