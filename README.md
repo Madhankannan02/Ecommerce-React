@@ -107,7 +107,6 @@ This project was developed as a comprehensive hands-on learning experience with 
 
 The project reflects production-style design patterns and realistic ecommerce application workflow, demonstrating capability in modern frontend development and application scalability.
 
----
 
 ## License
 
