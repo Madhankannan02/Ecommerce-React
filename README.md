@@ -1,3 +1,5 @@
+![React](https://img.shields.io/badge/react-272727?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-green?style=for-the-badge) ![Vitest](https://img.shields.io/badge/vitest-white?style=for-the-badge)
+
 # Ecommerce Web Application — React Frontend
 
 A fully responsive and feature-rich ecommerce web application built using React. This project demonstrates practical application architecture, dynamic data management, routing across multiple pages, automated component testing, and real-time UI updates using async operations. Designed as a primary portfolio project, it showcases strong proficiency in modern frontend development and application scaling practices.
